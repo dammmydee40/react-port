@@ -21,11 +21,9 @@ const About = () => {
               </p>
               <ul class="about-info mt-4 px-md-0 px-2">
                 <li class="d-flex">
-                  <span>Name:</span> <span>Clark Thompson</span>
+                  <span>Name:</span> <span>Micheal Fredrick</span>
                 </li>
-                <li class="d-flex">
-                  <span>Date of birth:</span> <span>January 01, 1987</span>
-                </li>
+               
                 <li class="d-flex">
                   <span>Address:</span> <span>San Francisco CA 97987 USA</span>
                 </li>
